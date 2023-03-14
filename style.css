@@ -1,0 +1,135 @@
+
+body{
+
+    margin: 20px;
+    
+}
+
+.container .logo {
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
+
+.container .list ul{
+    list-style-type: none;
+    display: flex;
+    justify-content:flex-end
+    
+}
+
+.container .list ul li {
+    color: rgb(117, 117, 117);
+    padding:20px;
+    margin-bottom: -40px;
+    
+}
+
+.container .list ul i {
+    padding:10px;
+   
+}
+
+.container .list2 ul {
+
+    color: rgb(117, 117, 117);
+    list-style-type: none;
+    display: flex;
+    justify-content:flex-start;
+    margin-left:-20px ;
+    margin-bottom: -40px;
+
+}
+
+.container .list2 span {
+
+    color: rgb(179, 178, 178);
+    margin-left: 40px;
+    margin-top: -50px;
+    
+
+}
+
+.container .list2 input {
+
+    color: rgb(179, 178, 178);
+    margin-top: -100px;
+    width: 400px;
+    height: 40px;
+    border-radius: 9999px;
+    border-color: rgb(207, 207, 207);
+    margin-left: 380px;
+    
+    
+
+}
+
+
+.container .list2 ul li {
+    
+    padding:30px;
+}
+
+
+.container .photo2 img {
+    float: right;
+    padding: 20px;
+    width: 400px;
+    height: 500px;  
+}
+
+.container .photo1 img {
+    float: right;
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+}
+
+.container .text1 {
+     
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 200px;
+    color: rgb(139, 126, 115);
+
+}
+
+.container .text2 {
+     
+    margin-top: -30px;
+    margin-left: 40px;
+    font-size: 100px;
+    padding-left: 100px;
+    color: rgb(186, 182, 145);
+}
+.container .text3 {
+     margin-left: 30px;
+    color: rgb(111, 111, 111);
+}
+
+.container .button1 {
+    width: 300px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 999px;
+    border: none;
+    background-image: linear-gradient(to right,rgb(182, 186, 158),rgb(244, 244, 244));
+    
+}
+
+.container .button1 i {
+    
+    
+    color: rgb(47, 47, 47);
+    padding: 5px;
+
+}
+.container .button1 span {
+    
+    
+    color: rgb(117, 113, 113);
+    padding: 5px;
+
+}
+
